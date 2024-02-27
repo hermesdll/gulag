@@ -31,5 +31,16 @@
 		"cost": 40,
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],		
+	},
+	{
+		"name": "Kame House",
+        "replaces": "Shrine",
+		"uniqueTo": "Dragon Ball",
+		"isNationalWonder": true,
+		"requiredNearbyImprovedResources": ["Vine"],
+		"happiness": 3,
+		"cost": 100,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"],		
 	}
 ]
