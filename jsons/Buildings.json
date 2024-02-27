@@ -21,5 +21,15 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Orin Temple",
+        "replaces": "Monument",
+		"uniqueTo": "Dragon Ball",
+		"culture": 2,
+		"faith": 3,
+		"cost": 40,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],		
 	}
 ]
