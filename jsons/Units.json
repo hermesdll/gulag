@@ -5,19 +5,16 @@
 		"uniqueTo": "Dragon Ball",
 		"replaces": "Worker",
 		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Can speed up construction of a building"],
 		"cost": 70
 	},
 	{
 		"name": "Military Army Red Ribbon",
-		"unitType": "Ranged",
+		"unitType": "Sword",
 		"uniqueTo": "Dragon Ball",
-		"replaces": "Military",
+		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
+		"strength": 9,
 		"cost": 5,
-		"attackSound": "phasers"
 	}
 ]
