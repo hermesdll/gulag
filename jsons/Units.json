@@ -5,16 +5,28 @@
 		"uniqueTo": "Dragon Ball",
 		"replaces": "Worker",
 		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Can speed up construction of a building"],
-		"cost": 70
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Can speed up construction of a building","Cannot be intercepted"],
+		"cost": 80
 	},
 	{
 		"name": "Military Army Red Ribbon",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "Dragon Ball",
 		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 9,
-		"cost": 5,
+		"strength": 7,
+		"cost": 30,
+		"uniques": ["Can enter ice tiles"]
+	},
+		{
+		"name": "Prototype Android RRA",
+		"unitType": "Sword",
+		"uniqueTo": "Dragon Ball",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength":11,
+		"cost": 56,
+		"uniques": ["Ignores terrain cost","Can move immediately once bought"]
 	}
+]
 ]
