@@ -1,15 +1,23 @@
-[
+[ 
+    {
+		"name": "Namekian worker",
+		"unitType": "Civilian",
+		"uniqueTo": "Dragon Ball",
+		"replaces": "Worker",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 70
+	},
 	{
 		"name": "Military Army Red Ribbon",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"uniqueTo": "Dragon Ball",
+		"replaces": "Military",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 5,
-		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
