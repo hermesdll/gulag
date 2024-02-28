@@ -7,7 +7,7 @@
 		"faith": 3,
 		"cost": 40,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",""Free [Military army red ribbon] appears"],		
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],		
 	},
 	{
 		"name": "Kame House",

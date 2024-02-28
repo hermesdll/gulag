@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Military Army Red Ribbon",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
 		"replaces": "Machine Gun",
@@ -8,9 +8,7 @@
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"cost": 5,
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
