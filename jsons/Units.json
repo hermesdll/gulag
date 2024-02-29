@@ -1,11 +1,21 @@
-[ 
+[   
+     {
+		"name": "Namekian settlers",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
     {
-		"name": "Namekian worker",
+		"name": "Cerealian worker",
 		"unitType": "Civilian",
 		"uniqueTo": "Dragon Ball",
 		"replaces": "Worker",
 		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Can speed up construction of a building","Cannot be intercepted"],
+	    "strength": 3,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Cannot be intercepted"],
 		"cost": 80
 	},
 	{
@@ -27,5 +37,15 @@
 		"strength":11,
 		"cost": 56,
 		"uniques": ["Ignores terrain cost","Can move immediately once bought"]
-	}
+	}, 
+   	{
+   "name": "Saiyan",
+		"unitType": "Z-Soul",
+		"uniqueTo": "Dragon Ball",
+		"replaces": "Archer",
+		"movement": 3,
+		"strength": 13,
+		"rangedStrength": 8,
+		"cost": 70,
+		"uniques": ["Unable to pillage tiles","Can transform to [Musketman] <with [3]% chance> <upon losing at least [3] HP in a single attack>""
 ]
