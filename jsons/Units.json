@@ -47,5 +47,5 @@
 		"strength": 13,
 		"rangedStrength": 8,
 		"cost": 70,
-		"uniques": ["Unable to pillage tiles","Can transform to [Musketman] <with [3]% chance> <upon losing at least [3] HP in a single attack>""
+		"uniques": ["Unable to pillage tiles","Can transform to [Musketman] <with [3]% chance> <upon losing at least [3] HP in a single attack>"]}
 ]
