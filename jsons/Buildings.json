@@ -1,13 +1,12 @@
 [
      {
-		"name": "Korin Tower",
+		"name": "The Lookout",
 		"isNationalWonder": true,
 		"replaces": "Palace",
 		"production": 3,
 		"science": 3,
 		"gold": 3,
 		"culture": 2,
-		"cityStrength": 2,
 		"uniques": ["Indicates the capital city"]
 	},
 	{
@@ -28,5 +27,11 @@
 		"cost": 50,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"],		
-	}
+	},
+	{
+	   "name": "Cell Games Arena",
+		"culture": 1 ,
+		"isWonder": true,
+        "uniques": ["Never destroyed when the city is captured","[+15]% Production when constructing [Z soul] units [in this city]"],
+		"quote": "The Cell Games Arena is the martial art arena that Cell constructed for the Cell Games at 28 KS Point 5. Cell constructed the Cell Games Arena out of a giant piece of rock to host his tournament, the Cell Games, right after his battle against Future Trunks on the Tropical Islands."}
 ]
