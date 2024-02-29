@@ -3,6 +3,7 @@
 		"name": "Korin Tower",
 		"isNationalWonder": true,
 		"replaces": "Palace",
+		"production": 3,
 		"science": 3,
 		"gold": 3,
 		"culture": 2,
