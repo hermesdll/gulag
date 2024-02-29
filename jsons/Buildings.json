@@ -7,7 +7,9 @@
 		"science": 3,
 		"gold": 3,
 		"culture": 2,
+		"cost": 3,
 		"uniques": ["Indicates the capital city"]
+		"quote": "The Lookout is an ancient platform that is in geostationary orbit in the skies of Earth, and directly above Korin Tower in the Dragon Ball series"
 	},
 	{
 		"name": "Orin Temple",
@@ -31,7 +33,8 @@
 	{
 	   "name": "Cell Games Arena",
 		"culture": 1 ,
+		"cost": 100,
 		"isWonder": true,
-        "uniques": ["Never destroyed when the city is captured","[+15]% Production when constructing [Z soul] units [in this city]"],
+        "uniques": ["Never destroyed when the city is captured","[+15]% Production when constructing [Z-Soul] units [in this city]"],
 		"quote": "The Cell Games Arena is the martial art arena that Cell constructed for the Cell Games at 28 KS Point 5. Cell constructed the Cell Games Arena out of a giant piece of rock to host his tournament, the Cell Games, right after his battle against Future Trunks on the Tropical Islands."}
 ]
